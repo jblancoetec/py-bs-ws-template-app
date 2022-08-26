@@ -18,3 +18,4 @@ Procurar tener actualizado `python` . Si desea asegurarse, puede ejecutar el com
 
 - 🛠Para instalar las dependencias ejecutar el siguiente comando `pip install -r requirements.txt`
 - ⚒Para ejecutar el ejemplo, usar el siguiente comando `python main.py`
+- ⚒Si instala más dependencias y desea que se agreguen al archivo `requirements.txt`, usar el siguiente comando `pip freeze > requirements.txt`
